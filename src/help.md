@@ -17,6 +17,6 @@
 17. Inventory management solutions
 18. Marketing automation in retail
 19. Augmented reality in retail
-20. Mobile commerce optimization.
+20. Mobile commerce optimization
 
 
