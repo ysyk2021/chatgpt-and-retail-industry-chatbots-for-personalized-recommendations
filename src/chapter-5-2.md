@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a state-of-the-art natural language processing (NLP) model that has the capability to simulate human-like conversation and provide personalized recommendations and personal shopping assistants to customers in the retail industry.
 

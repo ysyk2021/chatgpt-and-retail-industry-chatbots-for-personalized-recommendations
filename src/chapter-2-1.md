@@ -1,5 +1,3 @@
-Definition of the Retail Industry
-=======================================================================
 
 The retail industry is a sector of the economy that involves the sale of goods and services to consumers. It encompasses both brick-and-mortar stores and online retailers, and includes a wide range of products and services such as clothing, electronics, food, and household items.
 

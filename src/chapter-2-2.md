@@ -1,5 +1,3 @@
-Types of Retail Businesses
-================================================================
 
 The retail industry encompasses a wide range of businesses that sell goods and services to consumers. In this chapter, we will explore the different types of retail businesses.
 

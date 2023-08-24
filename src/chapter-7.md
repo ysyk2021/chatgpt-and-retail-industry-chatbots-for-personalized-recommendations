@@ -1,5 +1,3 @@
-Chapter 6: Future of Retail Industry with ChatGPT
-=================================================
 
 ChatGPT has already demonstrated its potential in the retail industry by providing personalized recommendations and personal shopping assistants to customers. As technology continues to advance, there are several potential advancements and emerging trends that could further enhance the use of ChatGPT in the retail industry.
 

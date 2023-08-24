@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will explore ChatGPT, an AI-powered tool used in the retail industry for personalized recommendations and personal shopping assistants.
 

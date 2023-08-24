@@ -1,5 +1,3 @@
-Chapter 1: Basics of Retail Industry
-====================================
 
 The retail industry is a complex and dynamic sector that involves the sale of goods and services to consumers. In this chapter, we will explore the basics of the retail industry, including its definition, types of retail businesses, and the importance of personalized recommendations and personal shopping assistants in retail.
 

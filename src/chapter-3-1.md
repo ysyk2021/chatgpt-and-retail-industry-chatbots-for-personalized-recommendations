@@ -1,5 +1,3 @@
-Factors Affecting Retail Industry
-===========================================================================
 
 The retail industry faces several challenges that impact its growth and development. In this chapter, we will explore the factors affecting the retail industry.
 

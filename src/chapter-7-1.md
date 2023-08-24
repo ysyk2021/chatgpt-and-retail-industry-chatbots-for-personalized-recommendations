@@ -1,5 +1,3 @@
-Potential Advancements in Retail Industry with ChatGPT
-=========================================================================================================
 
 ChatGPT has the potential to revolutionize the retail industry by providing personalized recommendations and personal shopping assistants to customers. As technology continues to advance, there are several potential advancements that could further enhance the use of ChatGPT in the retail industry.
 

@@ -1,5 +1,3 @@
-The Role of ChatGPT in Improving Personalized Recommendations and Personal Shopping Assistants
-============================================================================================================
 
 In recent years, the retail industry has undergone a significant shift towards providing more personalized shopping experiences to customers. With the rise of e-commerce and online shopping, retailers have had to adapt quickly to changing trends and preferences to remain competitive.
 

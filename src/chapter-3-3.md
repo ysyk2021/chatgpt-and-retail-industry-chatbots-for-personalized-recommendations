@@ -1,5 +1,3 @@
-Impact of These Challenges on Customer Experience
-===========================================================================================
 
 The retail industry faces several challenges that impact the customer experience. In this chapter, we will explore these challenges and their impact on the customer experience.
 

@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Retail Industry
-========================================
 
 The retail industry faces several challenges that impact its growth and development. In this chapter, we will explore the factors affecting the retail industry, common challenges faced by retailers, and the impact of these challenges on the customer experience.
 

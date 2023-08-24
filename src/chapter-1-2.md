@@ -1,5 +1,3 @@
-Explanation of the Retail Industry and Its Importance
-===================================================================
 
 The retail industry is a vital sector of the global economy, encompassing businesses that sell goods and services directly to consumers. It plays an important role in driving economic growth, creating jobs, and supporting other industries such as manufacturing and logistics.
 
