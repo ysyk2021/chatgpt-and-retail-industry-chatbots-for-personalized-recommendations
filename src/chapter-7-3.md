@@ -1,5 +1,4 @@
-Chapter: Conclusion and Future Outlook
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we reflect on the implications of using ChatGPT in the retail industry for personalized recommendations and personal shopping assistants. We also explore the future outlook, potential advancements, and challenges that lie ahead.
 

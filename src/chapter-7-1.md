@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in the Retail Industry with ChatGPT
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the potential advancements that can be realized in the retail industry by leveraging ChatGPT, an advanced language model powered by artificial intelligence. With its capabilities in natural language processing and understanding, ChatGPT has the potential to drive significant transformations and improvements in various aspects of the retail industry.
 

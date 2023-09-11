@@ -1,5 +1,4 @@
-Chapter: Case Studies of Companies that Have Successfully Implemented ChatGPT in Their Retail Business
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore case studies of companies that have successfully implemented ChatGPT in their retail business. These companies have leveraged chatbots powered by ChatGPT to enhance personalized recommendations, provide personal shopping assistance, and improve customer experiences in the retail industry.
 

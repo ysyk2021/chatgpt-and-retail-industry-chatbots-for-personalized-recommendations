@@ -1,5 +1,4 @@
-Chapter: Overview of the Book
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this introductory chapter, we provide an overview of the book "ChatGPT and Retail Industry Chatbots for Personalized Recommendations and Personal Shopping Assistants." This book explores the transformative potential of ChatGPT, an advanced language model, in revolutionizing the retail industry by offering personalized recommendations and acting as personal shopping assistants.
 

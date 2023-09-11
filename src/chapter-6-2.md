@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Personalized Recommendations and Personal Shopping Assistants
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we discuss best practices for leveraging ChatGPT in the context of personalized recommendations and personal shopping assistants. These practices aim to enhance user experiences, improve recommendation accuracy, and drive customer satisfaction in the retail industry.
 

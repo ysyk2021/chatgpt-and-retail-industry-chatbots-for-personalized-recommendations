@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we dive into an introduction to ChatGPT, an advanced language model that is revolutionizing the retail industry as a tool for personalized recommendations and personal shopping assistants.
 

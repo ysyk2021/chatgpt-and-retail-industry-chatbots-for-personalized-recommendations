@@ -1,5 +1,4 @@
-Chapter: Types of Retail Businesses
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the different types of retail businesses that exist in the industry. These businesses cater to various consumer needs and operate in diverse formats, each with its own unique characteristics and strategies.
 

@@ -1,5 +1,4 @@
-Chapter: How ChatGPT can be Used for Personalized Recommendations and Personal Shopping Assistants
-==================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the ways in which ChatGPT, an advanced language model powered by artificial intelligence, can be utilized for personalized recommendations and personal shopping assistants in the retail industry. ChatGPT offers unique capabilities to understand customer preferences, provide tailored suggestions, and deliver a more engaging and interactive shopping experience.
 

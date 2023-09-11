@@ -1,5 +1,4 @@
-Chapter: Impact of These Challenges on Customer Experience
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the impact that the challenges faced by retailers in implementing ChatGPT and AI-powered chatbots can have on the customer experience. We delve into how these challenges can affect different aspects of the customer journey and provide insights into mitigating their impact.
 
